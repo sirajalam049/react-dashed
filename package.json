@@ -1,0 +1,35 @@
+{
+    "name": "react-dashed",
+    "version": "0.0.1",
+    "description": "Full control over the borders gap, shape color etc.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "rm -rf ./lib && tsc --declaration"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sirajalam049/react-dashed.git"
+    },
+    "keywords": [
+        "React",
+        "React-Dashed",
+        "MithyaLabs"
+    ],
+    "author": "Siraj Alam",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/sirajalam049/react-dashed/issues"
+    },
+    "homepage": "https://github.com/sirajalam049/react-dashed#readme",
+    "devDependencies": {
+        "@types/react": "^16.8.19",
+        "@types/react-dom": "^16.8.4",
+        "react": "^16.8.6",
+        "react-dom": "^16.8.6",
+        "typescript": "^3.5.1"
+    },
+    "dependencies": {
+        "react-sizeme": "^2.6.7"
+    }
+}
