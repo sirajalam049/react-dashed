@@ -6,8 +6,7 @@
         "noImplicitAny": true,
         "strictNullChecks": true,
         "removeComments": false,
-        "declaration": false,
-        "sourceMap": true,
+        "declaration": true,
         "jsx": "react",
         "allowSyntheticDefaultImports": true,
         "typeRoots": [
